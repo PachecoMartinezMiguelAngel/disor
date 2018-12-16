@@ -1,0 +1,10 @@
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.pdb
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JuegoDeLaVida.csprojAssemblyReference.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.Properties.Resources.resources
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JuegoDeLaVida.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JuegoDeLaVida.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.pdb
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JuegoDeLaVida.MainForm.resources
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JuegoDeLaVida.Grafiquito.resources

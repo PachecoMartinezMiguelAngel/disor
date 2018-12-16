@@ -1,0 +1,20 @@
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.pdb
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csprojAssemblyReference.cache
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.MainForm.resources
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.Grafiquito.resources
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.Properties.Resources.resources
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csproj.GenerateResource.cache
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csproj.CoreCompileInputs.cache
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Downloads\JVida Fast CSharp - Src\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.pdb
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\bin\Debug\JVida Fast CSharp.pdb
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csprojAssemblyReference.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.MainForm.resources
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.Grafiquito.resources
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida_Fast_CSharp.Properties.Resources.resources
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.exe
+C:\Users\charl\Desktop\Juego de la vida Final\JVida Fast CSharp\obj\x86\Debug\JVida Fast CSharp.pdb

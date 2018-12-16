@@ -1,0 +1,12 @@
+﻿Compilación iniciada a las 08/11/2018 03:19:01 p. m..
+     1>Proyecto "C:\Users\DBZ\Desktop\PlayFair GUI\PlayFair GUI\PlayFair GUI.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DBZ\Desktop\PlayFair GUI\x64\Debug\PlayFair GUI.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:x64\Debug\PlayFair_GUI.GUI.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DBZ\Desktop\PlayFair GUI\x64\Debug\PlayFair GUI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 x64\Debug\MyForm.obj
+         "x64\Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+     1>LINK : error LNK2001: sÝmbolo externo main sin resolver
+     1>C:\Users\DBZ\Desktop\PlayFair GUI\x64\Debug\PlayFair GUI.exe : fatal error LNK1120: 1 externos sin resolver
+     1>Compilación del proyecto terminada "C:\Users\DBZ\Desktop\PlayFair GUI\PlayFair GUI\PlayFair GUI.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:11.45

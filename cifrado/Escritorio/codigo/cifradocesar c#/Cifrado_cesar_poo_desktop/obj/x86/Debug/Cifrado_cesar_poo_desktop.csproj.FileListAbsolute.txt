@@ -1,0 +1,6 @@
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/bin/Debug/Cifrado_cesar_poo_desktop.exe
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/bin/Debug/Cifrado_cesar_poo_desktop.pdb
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/obj/x86/Debug/Cifrado_cesar_poo_desktop.csprojAssemblyReference.cache
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/obj/x86/Debug/Cifrado_cesar_poo_desktop.csproj.CoreCompileInputs.cache
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/obj/x86/Debug/Cifrado_cesar_poo_desktop.exe
+/home/fernando/Projects/Cifrado_cesar_poo_desktop/Cifrado_cesar_poo_desktop/obj/x86/Debug/Cifrado_cesar_poo_desktop.pdb

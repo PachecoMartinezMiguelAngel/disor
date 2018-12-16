@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\dbz\desktop\playfair gui\playfair gui\playfair.h(31): warning C4018: '<': no coinciden signed/unsigned
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  MyForm.obj : se encontr¾ un m¾dulo MSIL; vinculaci¾n incremental deshabilitada para MSIL; ejecutando vÝnculo completo
+  PlayFair GUI.vcxproj -> C:\Users\DBZ\Desktop\PlayFair GUI\Debug\PlayFair GUI.exe
